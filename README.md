@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning R Script for data analysis
 - 👯 I’m looking to collaborate on projects that would help me improve my skills and experience.
 - 📫 How to reach me: Instagram/Twitter @UGWU_SI 
-- 😄 Pronouns: He/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learn by teaching, which is why i constantly take out time to teach people data analysis 
 
