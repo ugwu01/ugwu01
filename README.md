@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on various data analysis projects and trying to build a strong portfolio using Spreadsheet, SQL, PowerBI, Tableeau and Python
 - 🌱 I’m currently learning R Script for data analysis
 - 👯 I’m looking to collaborate on data analytics and data science projects.
-- 📫 How to reach me: kankonian@gmail.com 
+- 📫 How to reach me: Instagram/Twitter @UGWU_SI 
 - 😄 Pronouns: He/Her
 - ⚡ Fun fact: I learn by teaching, which is why i constatly take out time to teach people data analysis 
 -->
